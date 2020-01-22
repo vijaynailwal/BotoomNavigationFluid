@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BotoomNavigationFluid</string>
+    <string name="rentals">rentals</string>
+    <string name="flip">flip</string>
+    <string name="add">ad</string>
+    <string name="more">search</string>
+    <string name="search">search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
